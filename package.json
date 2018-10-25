@@ -1,0 +1,23 @@
+{
+  "name": "creative-coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bezier-easing": "^2.1.0",
+    "canvas-sketch": "0.0.27",
+    "canvas-sketch-util": "^1.4.2",
+    "eases": "^1.0.8",
+    "glsl-hsl2rgb": "^1.1.0",
+    "glsl-noise": "0.0.0",
+    "nice-color-palettes": "^2.0.0",
+    "random-color-rgb": "^1.1.1",
+    "three": "^0.97.0"
+  }
+}
